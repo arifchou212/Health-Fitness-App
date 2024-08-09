@@ -37,8 +37,6 @@ Getting Started
 
 1.  **Clone the Repository:**
 
-    bash
-
     Copy code
 
     `git clone <repository-url>`
@@ -74,16 +72,12 @@ Contributing
 2.  **Create a New Branch:**
     -   Create a new branch for your feature or bug fix.
 
-    bash
-
     Copy code
 
     `git checkout -b feature/new-feature`
 
 3.  **Make Changes and Commit:**
     -   Make your changes and commit them with a descriptive message.
-
-    bash
 
     Copy code
 
@@ -92,8 +86,6 @@ Contributing
 
 4.  **Push Changes and Create a Pull Request:**
     -   Push your changes to GitHub.
-
-    bash
 
     Copy code
 
