@@ -37,8 +37,6 @@ Getting Started
 
 1.  **Clone the Repository:**
 
-    Copy code
-
     `git clone <repository-url>`
 
 2.  **Open the Project in Android Studio:**
@@ -72,22 +70,16 @@ Contributing
 2.  **Create a New Branch:**
     -   Create a new branch for your feature or bug fix.
 
-    Copy code
-
     `git checkout -b feature/new-feature`
 
 3.  **Make Changes and Commit:**
     -   Make your changes and commit them with a descriptive message.
-
-    Copy code
 
     `git add .
     git commit -m "Add new feature"`
 
 4.  **Push Changes and Create a Pull Request:**
     -   Push your changes to GitHub.
-
-    Copy code
 
     `git push origin feature/new-feature`
 
